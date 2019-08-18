@@ -1,0 +1,34 @@
+/* 3rd iteration */
+
+/* usually for button, I give them an ID */
+
+.ui-input {
+  width: 50%;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.btn {
+  margin: 20px 20px 20px 0;
+  width: 50%;
+  border-radius: 10px;
+}
+
+#red {
+  background-color: #DE3774;
+  border: 1px solid #DE3774;
+}
+
+#green {
+  background-color: #1CA92F;
+  border: 1px solid #1CA92F;
+}
+
+.stack {
+  background-color:rgb(67, 152, 233);
+  border: 1px solid rgb(67, 152, 233);
+  border-radius: 10px;
+  width: 50%;
+  height: 50px;
+  margin-bottom: 5px;
+}
